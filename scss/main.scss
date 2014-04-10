@@ -1,0 +1,28 @@
+.editForm {
+	display: none;
+	text-align: left;
+
+	div {
+		margin: 2px;
+		width: 80%;
+	}
+}
+body {
+	background-color: #6F8D96;
+}
+main {
+	width: 80%;
+	margin: auto;
+}
+header {
+	background-color: #818D91;
+	color: #FFF;
+	height: 100px;
+	border: 2px solid #FFF;
+}
+.container {
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	background-color: #DEDEDE;
+}
